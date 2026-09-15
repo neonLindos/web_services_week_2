@@ -2,6 +2,14 @@
 
 Вторая тема курса **«Разработка веб-сервисов»**: контроллеры, маршрутизация, HTTP-методы GET/POST/PUT/DELETE, корректные HTTP-коды ответа (200/201/400/404), тестирование через Swagger.
 
+## Все работы по курсу CSE5032
+
+| Неделя | Тема | Репозиторий |
+|---|---|---|
+| 1 | Введение в ASP.NET Core | [web_services_week_1](https://github.com/neonLindos/web_services_week_1) |
+| 2 | Web API + CRUD | **этот репозиторий** |
+| 3 | Dependency Injection и логирование | [web_services_week_3](https://github.com/neonLindos/web_services_week_3) |
+
 | Работа | Проект | Ресурс | Endpoint'ы |
 |--------|--------|--------|-----------|
 | [homework/](homework/) | `BooksApi` | Book | `GET /api/books`, `POST /api/books` |
