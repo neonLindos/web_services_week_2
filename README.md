@@ -11,6 +11,7 @@
 | 1 | Введение в ASP.NET Core | [web_services_week_1](https://github.com/neonLindos/web_services_week_1) |
 | 2 | Web API + CRUD | **этот репозиторий** |
 | 3 | Dependency Injection и логирование | [web_services_week_3](https://github.com/neonLindos/web_services_week_3) |
+| 4 | EF Core, Repository, DTO и AutoMapper | [web_services_week_4](https://github.com/neonLindos/web_services_week_4) |
 
 | Работа | Проект | Ресурс | Endpoint'ы |
 |--------|--------|--------|-----------|
